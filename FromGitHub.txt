@@ -1,0 +1,3 @@
+Git Keep track of the changes in this .git folder ,  
+
+more precisely , that's the git repository itself. 
